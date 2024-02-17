@@ -1,7 +1,7 @@
-## DailyTips
+# DailyTips
  Useful tips for daily life
 
-# Solution of excel opening second/subsequent file(s) slowly
+## Solution of excel opening second/subsequent file(s) slowly
  - Open regedit and locate the following directories:
  
  HKEY_CLASSES_ROOT\Excel.CSV\shell\Open\ddeexe
