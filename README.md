@@ -12,6 +12,7 @@
  
 
  - Set default value to:
+
  [open("%1" /ou "%u")]
 
  This will disable Dynamic Data Exchange for opening Excel files from Explorer.
